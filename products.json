@@ -27,12 +27,12 @@
     "id": 5,
     "productName": "Jack Daniela 0.75L",
     "price": 150,
-    "weight":
+    "weight": 150.68
   },
   {
     "id": 6,
     "productName": "Pepsi 2L",
     "price": 6.5,
-    "weight":
+    "weight": 200.78
   }
 ]
