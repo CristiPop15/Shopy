@@ -7,11 +7,11 @@
   {
     "id": 2,
     "email": "sergiumarcus@yahoo.com",
-    "password": "1d8fb3603292a370c63833c81b4b54d57b4d382131bb190acfb76d375f226fc4"
+    "password": "$2a$10$/7v/qJXvtKoHBEg7lNfEQumTROI8KI5d7A5JL2H/R6zD4tgnUwssa4"
   },
   {
     "id": 3,
     "email": "numeprenume@yahoo.com",
-    "password": "6e0ce4d4320421296dd4a9373649bc73dbb34b3fde4d020a84414e67a8d55bdb"
+    "password": "$2a$10$.9fJeQ6IOinscoaQCdqw8O38I8LTi1aitnJhottrJtWj3QbwBwfz6"
   }
 ]
